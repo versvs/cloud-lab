@@ -16,7 +16,7 @@ Sube la imagen de Docker a DockerHub.
 
 ## Práctica 3
 
-Automatiza el proceso de creación de la imagen de Docker y su subida a Docker Hub después de cada cambio en el repositorio.
+Automatiza el proceso de creación de la imagen de Docker y su subida a Docker Hub después de cada cambio en el repositorio utitlizando Travis CI.
 
 ## Práctica 4
 
