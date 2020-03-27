@@ -1,0 +1,9 @@
+sudo: required
+services:
+ - docker
+script:
+ - docker build -t masterlemon7_cloud_ci .
+after_success:
+ - docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
+ - docker tag masterlemon7_cloud_ci $DOCKER_USER/masterlemon7_cloud_ci
+ - docker push $DOCKER_USER/masterlemon7_cloud_ci

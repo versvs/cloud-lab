@@ -1,5 +1,9 @@
 # PRÁCTICAS MÓDULO CLOUD
 
+# Basics
+
+Ejercicio de Masterlemon7 por Jose Alcántara
+
 ## Preparación
 
 * Cuenta de [Docker Hub](https://hub.docker.com/)
@@ -16,7 +20,7 @@ Sube la imagen de Docker a DockerHub.
 
 ## Práctica 3
 
-Automatiza el proceso de creación de la imagen de Docker y su subida a Docker Hub después de cada cambio en el repositorio utitlizando Travis CI.
+Automatiza el proceso de creación de la imagen de Docker y su subida a Docker Hub después de cada cambio en el repositorio utilizando Travis CI.
 
 ## Práctica 4
 
