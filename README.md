@@ -3,6 +3,7 @@
 # Basics
 
 Ejercicio de Masterlemon7 por Jose Alcántara
+CI docker image disponible en: http://ec2-34-249-39-248.eu-west-1.compute.amazonaws.com/
 
 ## Preparación
 
